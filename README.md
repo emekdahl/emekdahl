@@ -4,6 +4,7 @@
 <p>Welcome to my page! I'm Emily, Data Engineer
 
 <h3>My latest posts</h3>
+<br>
 <ul>
     <li>
         <a href="https://emekdahl.medium.com/how-to-resolve-ssl-certificate-verify-failed-error-on-mac-77de2a46ef2b" 
