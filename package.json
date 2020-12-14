@@ -1,0 +1,25 @@
+{
+  "name": "emekdahl",
+  "version": "1.0.0",
+  "description": "github meta readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emekdahl/emekdahl.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Emily Ekdahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emekdahl/emekdahl/issues"
+  },
+  "homepage": "https://github.com/emekdahl/emekdahl#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
