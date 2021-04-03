@@ -6,7 +6,7 @@
 <br>
 <ul>
     <li>
-        <a href="https://emekdahl.medium.com/how-to-set-up-your-python-virtual-environment-for-machine-learning-2cfad0b680af" 
+        <a href="https://emekdahl.medium.com/how-to-set-up-your-python-virtual-environment-for-machine-learning-2cfad0b680af">
         <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         How to Set Up Your Jupyter Notebook and Python Virtual Environment for Machine Learning</b></a><br/>
     </li>
