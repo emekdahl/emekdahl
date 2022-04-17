@@ -3,8 +3,13 @@
 <p>Welcome to my page! 
 
 <h3>My latest posts</h3>
-<br>
+<br> 
 <ul>
+    <li>
+        <a href="https://emekdahl.medium.com/how-to-lint-your-jupyter-notebook-with-python-black-70a7deb45734">
+        <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
+        How to Lint Your Jupyter Notebook With Python Black</b></a><br/>
+    </li>
     <li>
         <a href="https://emekdahl.medium.com/how-to-set-up-your-python-virtual-environment-for-machine-learning-2cfad0b680af">
         <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
