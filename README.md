@@ -7,22 +7,18 @@
 <ul>
     <li>
         <a href="https://emekdahl.medium.com/how-to-lint-your-jupyter-notebook-with-python-black-70a7deb45734">
-        <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         How to Lint Your Jupyter Notebook With Python Black</b></a><br/>
     </li>
     <li>
         <a href="https://emekdahl.medium.com/how-to-set-up-your-python-virtual-environment-for-machine-learning-2cfad0b680af">
-        <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         How to Set Up Your Jupyter Notebook and Python Virtual Environment for Machine Learning</b></a><br/>
     </li>
     <li>
         <a href="https://emekdahl.medium.com/how-to-insert-images-in-jupyter-notebook-5abcb3064f0a">
-        <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 
         How to Insert Images in Jupyter Notebook</b></a><br/>
     </li>
     <li>
         <a href="https://emekdahl.medium.com/five-shortcuts-for-improved-productivity-in-jupyter-notebooks-590826259a7f">
-        <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
         <b>Five Shortcuts for Improved Productivity in Jupyter Notebooks</b></a><br/>
     </li>
 </ul>
