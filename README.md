@@ -19,7 +19,7 @@
     </li>
     <li>
         <a href="https://emekdahl.medium.com/five-shortcuts-for-improved-productivity-in-jupyter-notebooks-590826259a7f">
-        <b>Five Shortcuts for Improved Productivity in Jupyter Notebooks</b></a><br/>
+        Five Shortcuts for Improved Productivity in Jupyter Notebooks</b></a><br/>
     </li>
 </ul>
 
