@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Emily Ekdahl!</h1>
 
 <h3>Recent Work</h3>
-<br> 
 <ul>
     <li>
         <a href="https://corise.com/course/applied-statistics-for-data-science">
