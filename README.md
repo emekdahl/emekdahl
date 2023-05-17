@@ -4,12 +4,12 @@
 <br> 
 <ul>
     <li>
-        <a href="https://www.youtube.com/watch?v=PnCDlj8_zsA">
-        Data Paradox of the Growth-Stage Startup</b></a><br/>
-    </li>
-    <li>
         <a href="https://corise.com/course/applied-statistics-for-data-science">
         Applied Statistics for Data Science</b></a><br/>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/watch?v=PnCDlj8_zsA">
+        Data Paradox of the Growth-Stage Startup</b></a><br/>
     </li>
 </ul>
 
