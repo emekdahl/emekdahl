@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Emily Ekdahl!</h1>
 
-<p>Welcome to my page! 
-
-<h3>My latest posts</h3>
+<h3>Recent Work</h3>
 <br> 
 <ul>
     <li>
