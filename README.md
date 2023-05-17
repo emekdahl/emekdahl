@@ -6,20 +6,12 @@
 <br> 
 <ul>
     <li>
-        <a href="https://emekdahl.medium.com/how-to-lint-your-jupyter-notebook-with-python-black-70a7deb45734">
-        How to Lint Your Jupyter Notebook With Python Black</b></a><br/>
+        <a href="https://www.youtube.com/watch?v=PnCDlj8_zsA">
+        Data Paradox of the Growth-Stage Startup</b></a><br/>
     </li>
     <li>
-        <a href="https://emekdahl.medium.com/how-to-set-up-your-python-virtual-environment-for-machine-learning-2cfad0b680af">
-        How to Set Up Your Jupyter Notebook and Python Virtual Environment for Machine Learning</b></a><br/>
-    </li>
-    <li>
-        <a href="https://emekdahl.medium.com/how-to-insert-images-in-jupyter-notebook-5abcb3064f0a">
-        How to Insert Images in Jupyter Notebook</b></a><br/>
-    </li>
-    <li>
-        <a href="https://emekdahl.medium.com/five-shortcuts-for-improved-productivity-in-jupyter-notebooks-590826259a7f">
-        Five Shortcuts for Improved Productivity in Jupyter Notebooks</b></a><br/>
+        <a href="https://corise.com/course/applied-statistics-for-data-science">
+        Applied Statistics for Data Science</b></a><br/>
     </li>
 </ul>
 
