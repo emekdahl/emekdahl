@@ -3,6 +3,6 @@
                                                                                                                                            
 Founding AI Engineer at [Deduction](https://deduction.com). Building AI-native tax services.                                              
                                                                                                          
-Working on: agentic workflows, human-AI collaboration, production LLM systems.
+Working on: production AI systems, evals, harnesses, agents
                               
-[LinkedIn](https://linkedin.com/in/emekdahl) · [Twitter](https://twitter.com/emekdahl) · [Medium](https://medium.com/@emekdahl)
+[LinkedIn](https://linkedin.com/in/emilyekdahl) · [Twitter](https://twitter.com/emekdahl)
