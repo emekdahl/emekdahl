@@ -5,4 +5,4 @@ Founding AI Engineer at [Deduction](https://deduction.com). Building AI-native t
                                                                                                          
 Working on: production AI systems, evals, harnesses, agents
                               
-[LinkedIn](https://linkedin.com/in/emilyekdahl) · [Twitter](https://twitter.com/emekdahl)
+[LinkedIn](https://linkedin.com/in/emilyekdahl) · [Twitter](https://twitter.com/emekdahl) · [Substack][https://emekdahl.substack.com/]
